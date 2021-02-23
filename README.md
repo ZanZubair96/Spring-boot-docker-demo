@@ -13,6 +13,7 @@ It's just a sample application, in which I have created a demo Spring-boot appli
     >> " . " it represents the current directory
 
 // To run the docker image
+
 2. docker run -p 8085:8085 docker-spring-boot
 
      >> " -p " port, specified in the "application.properties" file
