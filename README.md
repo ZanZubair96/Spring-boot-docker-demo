@@ -15,9 +15,9 @@ It's just a sample application, in which I have created a demo Spring-boot appli
 // To run the docker image
 2. docker run -p 8085:8085 docker-spring-boot
 
-    >> " -p " port, specified in the "application.properties" file
+     >> " -p " port, specified in the "application.properties" file
     
-    >> " docker-spring-boot " name of the docker image
+     >> " docker-spring-boot " name of the docker image
 
 3. If you change/add any method in the java application 
 
